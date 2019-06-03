@@ -35,6 +35,7 @@ JButton ver=new JButton("Ver por consola.");
 JButton fin=new JButton("CERRAR");
 Color c; //para poner colores
  // WHITE,LIGHTGRAY,GRAY,DARKGRAY,BLUE,BLACK,RED,MAGENTA,PINK,ORANGE,CYAN,GREEN,YELLOW
+//hecho
 
 public VentanaDepart(JFrame f )
 { 	
